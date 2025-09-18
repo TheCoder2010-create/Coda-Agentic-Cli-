@@ -90,6 +90,3 @@ Preview changes safely:
 coda patch "Refactor the user authentication system" --safe
 ```
 
-## License
-
-MIT License
